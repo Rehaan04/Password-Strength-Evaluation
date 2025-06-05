@@ -6,13 +6,13 @@ The Objective of this project is to understand what makes a password strong and 
    1) Password121:Very Weak
    2) Password$#1:Weak
    3) Pord1!$2:Moderate
-   4) Pass#$23$%67*&:Strong
+   4) Pass#$23$%67*:Strong
    5) P@word45^34@12&:Very Strong
 2) Tested each Password on a Password Strength Checker Tool (PasswordMonster.com) which shows complexity as well as the time it took to crack the password:
    1) Password121 : Very Weak : 0.09 seconds
    2) Password$#1 : Weak : 3.61 seconds
    3) Pord1!$2 : Medium : 4 days
-   4) Pass#$23$%67*& : Strong : 9 years
+   4) Pass#$23$%67* : Strong : 2 months
    5) P@word45^34@12& : Very Strong : 75 thousand years
 3) Identified best practices for creating strong passwords such as
    1) using more than 12 characters
