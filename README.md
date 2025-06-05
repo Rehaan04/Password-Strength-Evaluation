@@ -24,6 +24,6 @@ The Objective of this project is to understand what makes a password strong and 
    3) Phishing- Tricks users into revealing their passwords
 
  # Summary
- 1)Complexity and Length increases password cracking time.
- 2)It is always better to use different long and random passwords for different sites.
+ 1) Complexity and Length drastically increases password cracking time. 
+ 2) It is always better to use different long and random passwords for different sites.
  
